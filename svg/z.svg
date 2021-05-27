@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 105 148"
+   height="148mm"
+   width="105mm">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,-0.79951545 H 623.62205 V 109.53362 H 0 Z"
+         id="path10" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-9"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-149)"
+     id="layer1">
+    <path
+       d="m 102.61908,262.62641 -2.758942,3.94489 -2.758942,3.94488 h 1.721627 1.721627 c 0.26423,0 0.4975,-0.0289 0.6998,-0.0867 0.2023,-0.0578 0.37364,-0.1445 0.51401,-0.2601 0.14244,-0.1156 0.27662,-0.29055 0.40254,-0.52485 0.12592,-0.2343 0.24359,-0.52795 0.353,-0.88094 l 0.10218,0.0186 0.10218,0.0185 -0.19817,1.11163 -0.19817,1.11163 h -3.418486 -3.418487 v -0.11457 -0.11457 l 2.693917,-3.83341 2.693916,-3.83341 h -1.343863 -1.343862 c -0.222945,0 -0.415441,0.0124 -0.577489,0.0372 -0.162047,0.0248 -0.293646,0.0619 -0.394797,0.11147 -0.09909,0.0475 -0.18682,0.10631 -0.263199,0.1765 -0.07638,0.0702 -0.141405,0.15173 -0.195077,0.24462 -0.05161,0.0908 -0.10115,0.22191 -0.14863,0.39325 -0.04748,0.17133 -0.09289,0.38292 -0.136244,0.63477 h -0.117665 -0.117665 l 0.0867,-1.0497 0.0867,-1.0497 3.105745,3e-5 z"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:12.68307686px;line-height:114.93034363%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39634615"
+       id="path604" />
+  </g>
+</svg>

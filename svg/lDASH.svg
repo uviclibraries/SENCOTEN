@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 105 148"
+   height="148mm"
+   width="105mm">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,-0.79951545 H 623.62205 V 109.53362 H 0 Z"
+         id="path10" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-9"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-149)"
+     id="layer1">
+    <path
+       d="m 28.411288,233.85581 -0.359189,1.1395 -0.359189,1.13949 h -3.251277 -3.251277 v -0.11456 -0.11457 h 0.157919 0.15792 c 0.17753,0 0.329772,-0.0289 0.456727,-0.0867 0.126954,-0.0578 0.228621,-0.14451 0.305,-0.26011 0.04335,-0.0661 0.07586,-0.17546 0.09754,-0.32822 0.02168,-0.15276 0.03251,-0.34887 0.03251,-0.58833 v -1.35315 -1.35315 h -0.603809 -0.603809 v -0.22913 -0.22914 h 0.603809 0.603809 v -1.12711 -1.12711 c 0,-0.26217 -0.01445,-0.47531 -0.04335,-0.63942 -0.0289,-0.16411 -0.07225,-0.2792 -0.130051,-0.34526 -0.08051,-0.0908 -0.180626,-0.15895 -0.300356,-0.20436 -0.119729,-0.0454 -0.25907,-0.0681 -0.418021,-0.0681 h -0.15792 -0.157919 v -0.11457 -0.11457 h 1.901223 1.901223 v 0.11457 0.11457 c -0.359189,-0.004 -0.647675,0.0315 -0.865459,0.10682 -0.217784,0.0753 -0.364865,0.19043 -0.441244,0.34526 -0.03303,0.0661 -0.0578,0.17804 -0.07432,0.33596 -0.01652,0.15792 -0.02477,0.36177 -0.02477,0.61155 v 1.0559 1.05589 h 1.220003 1.220003 v 0.22914 0.22913 h -1.220003 -1.220003 v 1.35315 1.35315 c 0,0.1734 0.0083,0.31894 0.02477,0.4366 0.01651,0.11767 0.04129,0.20746 0.07432,0.26939 0.03716,0.0702 0.101667,0.12644 0.193528,0.16876 0.09186,0.0423 0.211075,0.0707 0.35764,0.0852 h 0.322031 0.322032 0.306549 0.306549 c 0.264231,0 0.490272,-0.007 0.678123,-0.0201 0.187852,-0.0134 0.337514,-0.0335 0.448986,-0.0604 0.183723,-0.0434 0.354028,-0.11251 0.510915,-0.20747 0.156887,-0.095 0.300356,-0.21572 0.430407,-0.36228 0.107344,-0.12179 0.214688,-0.27765 0.322032,-0.46757 0.107344,-0.18991 0.214687,-0.41389 0.322031,-0.67193 l 0.102183,0.0217 z"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:12.68307686px;line-height:114.93034363%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39634615"
+       id="path562" />
+    <g
+       transform="translate(-161.16353,91.138909)"
+       id="g636" />
+    <g
+       transform="translate(94.004157,73.61133)"
+       id="g632" />
+  </g>
+</svg>
