@@ -1,6 +1,7 @@
 Letters are 10mm in height joins are 6.5mm in height.
 to line up letters and join place letter in center at 0,0
 adjust join by horizontal length, vertical length.
+Alternatively, airball it and make sure they are't sticking out in the wrong places.
 
 
 wUND:
