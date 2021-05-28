@@ -20,3 +20,6 @@ blocks:
 blocks are defaulted to a height of 60mm but the prefered printing size is 37.5mm. Use uniformed scaling to shrink it to the appropriate size.
 PVA supports prevent sag and easy post processing.
 
+stl letters:
+letters made from SVG files.
+see join information for instructions on how to align letters with joins.
