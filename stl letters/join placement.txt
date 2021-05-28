@@ -1,0 +1,34 @@
+Letters are 10mm in height joins are 6.5mm in height.
+to line up letters and join place letter in center at 0,0
+adjust join by horizontal length, vertical length.
+
+
+wUND:
+0.14,-14.61
+
+nUND
+1.1, -14.75
+
+xUND
+0.23, -16.01
+
+kUND
+-1.13, -16.1
+
+tUND
+0, -15.71
+
+kACC
+-5.38, 16.77
+
+sACC
+-1.6, 15.94
+
+cACC
+1.74, 16.55
+
+iACC
+0.01, 15.24
+
+aACC
+1.81, 14.45
